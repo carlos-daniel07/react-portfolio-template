@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "No Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "No GraphQL",
+    "imageSrc": "skills/graphql.png"
+  },
+  {
+    "title": "No MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Adobe XD",
+    "imageSrc": "skills/figma.png"
+  }
+]
